@@ -1,2 +1,2 @@
 # CollegeProjects-C
-Projects made on college
+Small console projects made on college in C language
