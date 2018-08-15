@@ -1,0 +1,29 @@
+﻿  Source.c
+e:\buisness\c faks\projekti prog 2\geologija\geologija\source.c(27): warning C4020: 'ispis': too many actual parameters
+e:\buisness\c faks\projekti prog 2\geologija\geologija\source.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Funkcije.c
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(182): warning C4013: 'strcpy' undefined; assuming extern returning int
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(223): warning C4013: 'strncmp' undefined; assuming extern returning int
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(220): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+e:\buisness\c faks\projekti prog 2\geologija\geologija\funkcije.c(53): warning C4715: 'dodaj': not all control paths return a value
+  Geologija.vcxproj -> E:\Buisness\C faks\projekti PROG 2\Geologija\Debug\Geologija.exe
+  Geologija.vcxproj -> E:\Buisness\C faks\projekti PROG 2\Geologija\Debug\Geologija.pdb (Full PDB)
