@@ -1,0 +1,8 @@
+﻿  Funkcije.c
+e:\buisness\c faks\zdrijebprvenstva\zdrijebprvenstva\funkcije.c(15): warning C4013: 'strcpy' undefined; assuming extern returning int
+e:\buisness\c faks\zdrijebprvenstva\zdrijebprvenstva\funkcije.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\buisness\c faks\zdrijebprvenstva\zdrijebprvenstva\funkcije.c(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  ZdrijebPrvenstva.vcxproj -> E:\Buisness\C faks\ZdrijebPrvenstva\Debug\ZdrijebPrvenstva.exe
+  ZdrijebPrvenstva.vcxproj -> E:\Buisness\C faks\ZdrijebPrvenstva\Debug\ZdrijebPrvenstva.pdb (Full PDB)
