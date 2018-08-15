@@ -1,0 +1,6 @@
+Cekic 2
+Vijak 55
+Matica 55
+Kljuc 25
+Kljesta 1
+Odvijac 2

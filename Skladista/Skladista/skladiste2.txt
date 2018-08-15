@@ -1,0 +1,3 @@
+Truba 3
+Gitara 2
+Violina 1

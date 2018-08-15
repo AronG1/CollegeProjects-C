@@ -1,0 +1,5 @@
+CD 110
+Tipkovnica 3
+Mis 3
+Monitor 9
+DVD 225

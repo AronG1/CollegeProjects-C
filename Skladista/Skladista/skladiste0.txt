@@ -1,0 +1,7 @@
+Stol 2
+Stolica 6
+Uredska_stolica 2
+Ormar 3
+Kos_za_smece 4
+Laptop 7
+Projektor 1

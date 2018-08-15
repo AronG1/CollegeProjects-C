@@ -1,0 +1,5 @@
+Papir 950
+Printer 5
+Skener 3
+Laptop 3
+Kopirnica 2
