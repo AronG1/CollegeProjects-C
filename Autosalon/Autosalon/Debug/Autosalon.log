@@ -1,0 +1,27 @@
+﻿  Source.c
+  Funkcije.c
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(28): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(40): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(48): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(82): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(135): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(116): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(157): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(185): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(187): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(193): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(195): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aron\desktop\autosalon\autosalon\funkcije.c(217): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  Autosalon.vcxproj -> C:\Users\Aron\Desktop\Autosalon\Debug\Autosalon.exe
+  Autosalon.vcxproj -> C:\Users\Aron\Desktop\Autosalon\Debug\Autosalon.pdb (Full PDB)
