@@ -1,0 +1,44 @@
+﻿  Methods.c
+c:\users\aron\desktop\planeapp\planeapp\methods.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(63): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(84): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(101): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\aron\desktop\planeapp\planeapp\methods.c(101): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\aron\desktop\planeapp\planeapp\methods.c(103): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\aron\desktop\planeapp\planeapp\methods.c(104): warning C4013: 'strcat' undefined; assuming extern returning int
+c:\users\aron\desktop\planeapp\planeapp\methods.c(118): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\aron\desktop\planeapp\planeapp\methods.c(101): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(129): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(152): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(215): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(229): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(245): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(247): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(257): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(280): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(285): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(311): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\aron\desktop\planeapp\planeapp\methods.c(319): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(326): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\aron\desktop\planeapp\planeapp\methods.c(335): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  PlaneApp.vcxproj -> C:\Users\Aron\Desktop\PlaneApp\Debug\PlaneApp.exe
+  PlaneApp.vcxproj -> C:\Users\Aron\Desktop\PlaneApp\Debug\PlaneApp.pdb (Full PDB)
